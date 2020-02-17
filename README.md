@@ -1,2 +1,2 @@
 # APP
-University of Coursework
+Group Coursework
